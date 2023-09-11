@@ -23,6 +23,6 @@ Meu aprendizado tem sido incrível até agora, e estou ansioso para explorar os 
 
 ## Contato
 
-Fique à vontade para entrar em contato comigo se você tiver alguma pergunta ou quiser discutir colaborações e oportunidades de aprendizado. Você pode me encontrar em [seu@email.com] ou (https://www.linkedin.com/in/joabe-nascimento-632345211/).
+Fique à vontade para entrar em contato comigo se você tiver alguma pergunta ou quiser discutir colaborações e oportunidades de aprendizado. Você pode me encontrar em [seu@email.com] ou [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joabe-nascimento-632345211/).
 
 Obrigado por visitar meu GitHub e acompanhar minha jornada de aprendizado!
