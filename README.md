@@ -1,14 +1,14 @@
 # Curso-Proz-Talento-Cloud-Pro
 
-# Bem-vindo ao Meu GitHub!
+## Bem-vindo ao Meu GitHub! 👋
 
-Olá, sou Joabe, um estudante de Desenvolvimento de Sistemas concluindo o curso técnico na área e atualmente cursando graduação em Análise e Desenvolvimento de Sistemas na modalidade EAD. Além disso, estou investindo no meu aprendizado com um curso adicional da Talento Cloud Pro, focado em Desenvolvimento Web e Cloud e conduzido pela Proz Educação.
+Olá, sou Joabe, um entusiasta de Desenvolvimento de Sistemas, atualmente concluindo meu curso técnico na área e cursando graduação em Análise e Desenvolvimento de Sistemas na modalidade EAD. Estou comprometido em aprimorar meu conhecimento e habilidades, e para isso, estou investindo em meu aprendizado com um curso adicional da **Talento Cloud Pro**, focado em Desenvolvimento Web e Cloud, e conduzido pela **Proz Educação**.
 
-## Cursos em Andamento
+## Cursos em Andamento 🚀
 
 ### Curso de Desenvolvimento Web e Cloud - Talento Cloud Pro
 
-Este curso é uma imersão completa em Desenvolvimento Web e Cloud. Até o momento, concluí as seguintes etapas:
+Este curso é uma verdadeira imersão no mundo do Desenvolvimento Web e Cloud. Aqui está meu progresso até o momento:
 
 - [x] **Módulo 1 - Lógica de Programação**
 - [ ] **Módulo 2 - Introdução à Programação** (Atualmente)
@@ -19,10 +19,13 @@ Este curso é uma imersão completa em Desenvolvimento Web e Cloud. Até o momen
 - [ ] **Módulo 7 - Banco de Dados 1**
 - [ ] **Módulo 8 - Banco de Dados 2**
 
-Meu aprendizado tem sido incrível até agora, e estou ansioso para explorar os próximos módulos!
+Estou entusiasmado com o aprendizado até agora e mal posso esperar para explorar os próximos módulos!
 
-## Contato
+## Contato 📫
 
-Fique à vontade para entrar em contato comigo se você tiver alguma pergunta ou quiser discutir colaborações e oportunidades de aprendizado. Você pode me encontrar em [seu@email.com] ou [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joabe-nascimento-632345211/).
+Sinta-se à vontade para entrar em contato comigo se tiver alguma pergunta, sugestão ou quiser discutir colaborações e oportunidades de aprendizado. Você pode me encontrar em:
 
-Obrigado por visitar meu GitHub e acompanhar minha jornada de aprendizado!
+- **E-mail:** [![E-mail](https://img.shields.io/badge/E-mail-%23D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:seu@email.com)
+- **LinkedIn:** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joabe-nascimento-632345211/) 🌐
+
+Obrigado por visitar meu GitHub e por acompanhar minha jornada de aprendizado! ✨
