@@ -1,0 +1,4 @@
+ Todas as linhas da imagem 2 tem 4 para 2 alunos de M e P, 
+isso tanto horizontal quanto vertical, logo, 
+nas linhas em que o aluno que trocou esta elas 
+ficam com 3 para 3 de cada disciplina, ou seja tinha uma repetição 5 para 1!
