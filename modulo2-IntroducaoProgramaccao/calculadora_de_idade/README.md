@@ -1,38 +1,32 @@
-# Calculadora Simples em Python / Novo código
+# Calculadora de Idade em Python
 
-Este projeto é uma calculadora simples desenvolvida em Python. Ele permite que os usuários realizem operações matemáticas básicas, como adição, subtração, multiplicação e divisão.
+Esta é uma calculadora de idade simples em Python que permite aos usuários calcular sua idade com base na data de nascimento fornecida. É uma ferramenta fácil de usar que pode ser incorporada em outros projetos ou usada como uma aplicação autônoma.
 
-## Funcionalidades
+## Como Usar
 
-- **Soma:** Adicione dois números juntos.
-- **Subtração:** Subtraia um número do outro.
-- **Multiplicação:** Multiplique dois números.
-- **Divisão:** Divida um número pelo outro. (Evita divisões por zero.)
+1. Clone ou faça o download deste repositório em seu computador.
 
-## Uso
+2. Abra o arquivo `calculadora_de_idade.py` em seu ambiente de desenvolvimento Python de escolha.
 
-1. Clone este repositório para o seu ambiente local.
-2. Execute o arquivo `calculadora.py`.
+3. Siga as instruções no código para fornecer sua data de nascimento no formato "DD/MM/AAAA".
 
-Ao executar o arquivo `calculadora.py`, o programa exibirá um menu de opções no console, onde você poderá escolher a operação desejada:
+4. Execute o programa e ele calculará sua idade com base na data de nascimento fornecida. A seguir, insira sua data de nascimento quando solicitado.
 
-- Digite o número `1` para realizar uma soma.
-- Digite o número `2` para realizar uma subtração.
-- Digite o número `3` para realizar uma multiplicação.
-- Digite o número `4` para realizar uma divisão.
-- Digite o número `0` para sair da calculadora.
+## Pré-requisitos
 
-Depois de escolher a operação, o programa solicitará que você insira os valores necessários para realizar a operação escolhida. Em seguida, ele calculará o resultado e exibirá no console.
+Certifique-se de ter o Python instalado em seu sistema. Você pode baixá-lo em [python.org](https://www.python.org/downloads/).
 
-3. Veja o resultado da operação e continue fazendo cálculos conforme necessário.
-4. Para sair da calculadora, escolha a opção "0" no menu principal.
+## Contribuições
 
-## Contribuição
+Contribuições são bem-vindas! Se você deseja melhorar esta calculadora de idade de alguma forma, sinta-se à vontade para:
 
-Sinta-se à vontade para contribuir para este projeto. Se você tiver sugestões de melhorias, correções de bugs ou novos recursos que gostaria de adicionar, siga os passos abaixo:
+- Abrir problemas (issues) para relatar bugs ou solicitar recursos.
+- Enviar solicitações de pull (pull requests) para propor alterações ou adições.
 
-1. Faça um fork deste repositório.
-2. Crie uma branch para sua contribuição (`git checkout -b minha-contribuicao`).
-3. Faça as alterações desejadas e faça commit delas (`git commit -am 'Adicionando novo recurso'`).
-4. Envie as alterações para o seu fork no GitHub (`git push origin minha-contribuicao`).
-5. Abra um Pull Request para revisão.
+## Agradecimentos
+
+Agradecemos por usar nossa calculadora de idade em Python! Esperamos que ela seja útil para você. Se tiver alguma dúvida, sugestão ou encontrar problemas, não hesite em nos informar.
+
+---
+
+**Divirta-se calculando sua idade com esta calculadora em Python!**
