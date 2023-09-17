@@ -11,8 +11,8 @@ Olá, sou Joabe, um entusiasta de Desenvolvimento de Sistemas, atualmente conclu
 Este curso é uma verdadeira imersão no mundo do Desenvolvimento Web e Cloud. Aqui está meu progresso até o momento:
 
 - [x] **Módulo 1 - Lógica de Programação**
-- [ ] **Módulo 2 - Introdução à Programação** (Atualmente)
-- [ ] **Módulo 3 - Preparação com HTML e CSS**
+- [x] **Módulo 2 - Introdução à Programação** 
+- [ ] **Módulo 3 - Preparação com HTML e CSS** (Atualmente)
 - [ ] **Módulo 4 - HTML e CSS**
 - [ ] **Módulo 5 - JavaScript 1**
 - [ ] **Módulo 6 - JavaScript 2**
